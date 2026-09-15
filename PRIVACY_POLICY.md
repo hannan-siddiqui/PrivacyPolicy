@@ -56,4 +56,4 @@ TabLoque provides an **optional** cloud synchronization feature. If you choose t
 
 If you have questions regarding this Privacy Policy or TabLoque, please contact:
 - **Developer**: Hannan Siddiqui
-- **Repository**: [GitHub - TabLoque](https://github.com/hannan-siddiqui/TabLoque)
+- Email: hannansiddiqui774@gmail.com
